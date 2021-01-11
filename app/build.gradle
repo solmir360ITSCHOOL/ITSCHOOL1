@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "net.snode.itschool2"
+        applicationId "net.rsnode.itschool2"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
